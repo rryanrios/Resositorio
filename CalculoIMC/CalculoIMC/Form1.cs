@@ -19,21 +19,34 @@ namespace CalculoIMC
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
+            if(txtPeso.Text == "" || txtAltura.Text == "")
+            {
+                MessageBox.Show("Digite um valor nos campos Peso e Altura!");
+            } else
+            {
+                btnAcao();
+            }
+        }
+        private void btnAcao()
+        {
             float peso = float.Parse(txtPeso.Text);
             float altura = float.Parse(txtAltura.Text);
             float imc = peso / (altura * altura);
             double imcA = Math.Round(imc, 2);
-           
+
             if (imc < 18.5)
             {
                 MessageBox.Show("IMC: " + imcA + " || Abaixo do Peso");
-            } else if (imc < 25)
+            }
+            else if (imc < 25)
             {
                 MessageBox.Show("IMC: " + imcA + " || Peso Normal");
-            } else if (imc < 30)
+            }
+            else if (imc < 30)
             {
                 MessageBox.Show("IMC: " + imcA + " || Acima do Peso");
-            } else
+            }
+            else
             {
                 MessageBox.Show("IMC: " + imcA + " || Obesidade Morbida");
             }

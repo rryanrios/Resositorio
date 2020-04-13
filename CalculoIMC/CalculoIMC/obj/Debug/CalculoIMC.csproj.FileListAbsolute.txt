@@ -10,3 +10,9 @@ c:\users\rryan\onedrive\documentos\visual studio 2015\Projects\CalculoIMC\Calcul
 C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
 C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
 C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csprojResolveAssemblyReference.cache
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\rryan\Source\Repos\Resositorio\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.Cache
